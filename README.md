@@ -2,7 +2,7 @@
 AI-powered invoice collection agent with PayPal and Salesforce
 
 ## Demo Video
-[Watch on YouTube](https://youtube.com/watch?v=YOUR_VIDEO_ID)
+[Watch on YouTube](https://youtu.be/h8FuBJimjPo)
 
 ## Quick Start
 python3 -m venv venv
